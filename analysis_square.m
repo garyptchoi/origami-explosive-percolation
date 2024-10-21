@@ -103,10 +103,6 @@ end
 
 %% Plot k vs rho^* for each fixed rule and each fixed L
 
-LL = repmat(L_all', 1, length(k_all));
-kk = repmat(k_all, length(L_all), 1);
-kk(kk>=LL.^2) = (LL(kk>=LL.^2)).^2;
-
 r_star_all = zeros(length(L_all),length(k_all)); % rho^*
 
 r_0_all = zeros(length(L_all),length(k_all)); % rho^0
