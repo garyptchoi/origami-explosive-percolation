@@ -2,7 +2,7 @@
 
 <img src = "https://github.com/garyptchoi/origami-explosive-percolation/blob/main/cover.jpg" height="300" />
 
-This repository contain simulation codes for rigidifying a floppy Miura-ori structure by incrementally adding facet planarity constraints.
+This repository contains simulation codes for rigidifying a floppy Miura-ori structure by incrementally adding facet planarity constraints.
 At every step, k random candidate facets are chosen and one among them is selected based on some selection rule.
 Changing the number of choices k and the selection rule allows us to effectively control the explosive rigidity percolation behavior in origami.
 
@@ -11,10 +11,10 @@ Any comments and suggestions are welcome.
 If you use this code in your work, please cite the following paper:
 
 R. Li and G. P. T. Choi,
-"[Explosive rigidity percolation in origami.](https://arxiv.org/abs/2410.13945)"
-Preprint, arXiv:2410.13945, 2024.
+"[Explosive rigidity percolation in origami.](https://doi.org/10.1098/rspa.2024.0826)"
+Proceedings of the Royal Society A, 481(2316), 20240826, 2025. 
 
-Copyright (c) 2024, Rongxuan Li and Gary P. T. Choi
+Copyright (c) 2024-2025, Rongxuan Li and Gary P. T. Choi
 
 https://github.com/garyptchoi/origami-explosive-percolation
 
