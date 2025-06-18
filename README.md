@@ -31,5 +31,5 @@ Analysis codes:
 
 Simulation results:
 * `simulation_results/square/sim_L_aaa_k_bbb_rule_ccc.mat`: The simulation result for the square case (with pattern size L = aaa, number of choices k = bbb, rule = ccc)
-* `simulation_results/rec_ddd/sim_rect_ddd_L_eee_k_fff_rule_ggg.mat': The simulation result for the rectangular case (with pattern size S = ddd = $m \times n$ where m = eee, number of choices k = fff, rule = ggg)
+* `simulation_results/rec_ddd/sim_rect_ddd_L_eee_k_fff_rule_ggg.mat`: The simulation result for the rectangular case (with pattern size S = ddd = $m \times n$ where m = eee, number of choices k = fff, rule = ggg)
 * `simulation_results/square_pi3`, `simulation_results/square_pi6`: the simulation results for Miura-ori structures with alternative geometric parameters
